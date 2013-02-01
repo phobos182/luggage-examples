@@ -18,4 +18,3 @@
 /bin/rm -Rf "${3}/usr/sbin/mc-rpc"
 /bin/rm -Rf "${3}/usr/sbin/mcollectived"
 /bin/rm -Rf "${3}/usr/sbin/mco"
-
